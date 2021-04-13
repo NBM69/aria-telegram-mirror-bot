@@ -8,8 +8,7 @@
     "start:dev": "nodemon",
     "generateTelegraphToken": "ts-node src/generateTelegraphAccount",
     "generateDriveCredentials": "ts-node src/generateCredentials",
-    "postinstall": "ts-node src/unpackAll/postinstall"
-  },
+
   "author": "Ritayan Chakraborty",
   "license": "MIT",
   "dependencies": {
